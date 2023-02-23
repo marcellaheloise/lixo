@@ -1,0 +1,18 @@
+h1 { 
+        text-align: center;
+       
+}
+
+figure {
+    
+        text-align: center;
+    }
+
+h1, h3, h4 {
+        
+        font-family: 'Courier New', Courier, monospace; 
+       
+        } 
+body{
+        color: #076e0d;
+}
